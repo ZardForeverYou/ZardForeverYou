@@ -12,5 +12,5 @@ I'm Zard.
         🤔 I’m looking for help with Game Designer<br>
         💬 Ask me about anything is ok<br>
         📫 How to reach me: 18628943746@163.com<br>
-        😄 Pronouns: nothing else<br>
-        ⚡ Fun fact: finding<br>
+        😄 Pronouns: programmer & gamer & cooker<br>
+        ⚡ Fun fact: Focus is the primary productive force<br>

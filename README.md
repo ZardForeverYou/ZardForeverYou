@@ -7,7 +7,7 @@ I'm Zard.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
         🔭 I’m currently working on Big-Data：hive，spark，Flink，balabala...<br>
-        🌱 I’m currently learning Y3-ECA<br>
+        🌱 I’m currently learning Y3-Lualib<br>
         👯 I’m looking to collaborate on Game Development<br>
         🤔 I’m looking for help with Game Designer<br>
         💬 Ask me about anything is ok<br>
